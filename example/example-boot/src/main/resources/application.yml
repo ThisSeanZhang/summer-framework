@@ -1,0 +1,11 @@
+module.a:
+  selector: ${A_S:provider.a1}
+  provider.a1:
+    name: providerA1
+  provider.a2:
+    name: providerA2
+
+module.b:
+  selector: ${A_S:provider.b}
+  provider.b:
+    name: "false"
