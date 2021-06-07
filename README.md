@@ -1,5 +1,6 @@
 # summer-framework
 >  夏天到了所以这个框架就叫夏天吧
+>  Summer is here⛅, so just call it summer!
 
 # 特点
 - [x] 使用了JPMS作为模块化的基础
