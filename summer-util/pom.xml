@@ -5,11 +5,12 @@
     <parent>
         <artifactId>summer-framework</artifactId>
         <groupId>io.whileaway.code.summer</groupId>
-        <version>1.0-SNAPSHOT</version>
+        <version>0.0.2</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>summer-util</artifactId>
+    <description>Summer Framework Modular Util</description>
 
     <dependencies>
         <!-- sl4j-->

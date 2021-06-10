@@ -5,4 +5,5 @@ module summer.start {
     requires summer.modular;
 
     requires org.yaml.snakeyaml;
+    requires static lombok;
 }

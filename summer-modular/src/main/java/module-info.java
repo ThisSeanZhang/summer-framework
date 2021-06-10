@@ -7,5 +7,6 @@ module summer.modular {
     uses io.whileaway.code.summer.modular.ModuleProvider;
     uses io.whileaway.code.summer.modular.Service;
 
+    requires static lombok;
     requires summer.util;
 }

@@ -5,17 +5,18 @@
     <parent>
         <artifactId>summer-framework</artifactId>
         <groupId>io.whileaway.code.summer</groupId>
-        <version>1.0-SNAPSHOT</version>
+        <version>0.0.2</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
+    <description>Summer Framework Modular Core</description>
 
     <artifactId>summer-modular</artifactId>
     <dependencies>
         <dependency>
             <groupId>io.whileaway.code.summer</groupId>
             <artifactId>summer-util</artifactId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>compile</scope>
+            <version>0.0.2</version>
+            <scope>provided</scope>
         </dependency>
     </dependencies>
 
