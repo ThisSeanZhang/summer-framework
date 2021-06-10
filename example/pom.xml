@@ -3,18 +3,12 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
-    <parent>
-        <artifactId>summer-framework</artifactId>
-        <groupId>io.whileaway.code.summer</groupId>
-        <version>1.0-SNAPSHOT</version>
-    </parent>
-
-    <artifactId>summer-example</artifactId>
     <modelVersion>4.0.0</modelVersion>
 
+    <groupId>io.whileaway.code.summer</groupId>
+    <artifactId>summer-example</artifactId>
+    <version>0.0.2</version>
 
-<!--    <groupId>io.whileaway.code.summer</groupId>-->
-<!--    <version>1.0-SNAPSHOT</version>-->
     <modules>
         <module>example-boot</module>
         <module>module-a</module>
@@ -30,6 +24,7 @@
         <maven.compiler.source>15</maven.compiler.source>
         <maven.compiler.target>15</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <summer-ff.version>0.0.2</summer-ff.version>
     </properties>
 
     <dependencies>
