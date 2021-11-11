@@ -5,7 +5,7 @@
     <parent>
         <artifactId>summer-example</artifactId>
         <groupId>io.whileaway.code.summer</groupId>
-        <version>0.0.2</version>
+        <version>0.0.3-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -14,41 +14,41 @@
         <dependency>
             <groupId>io.whileaway.code.summer</groupId>
             <artifactId>summer-start</artifactId>
-            <version>0.0.2</version>
+            <version>0.0.3-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>io.whileaway.code.summer</groupId>
             <artifactId>summer-util</artifactId>
-            <version>0.0.2</version>
+            <version>0.0.3-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>io.whileaway.code.summer</groupId>
             <artifactId>provider-b</artifactId>
-            <version>0.0.2</version>
+            <version>0.0.3-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>io.whileaway.code.summer</groupId>
             <artifactId>provider-a2</artifactId>
-            <version>0.0.2</version>
+            <version>0.0.3-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>io.whileaway.code.summer</groupId>
             <artifactId>provider-a1</artifactId>
-            <version>0.0.2</version>
+            <version>0.0.3-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>io.whileaway.code.summer</groupId>
             <artifactId>module-b</artifactId>
-            <version>0.0.2</version>
+            <version>0.0.3-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>io.whileaway.code.summer</groupId>
             <artifactId>module-a</artifactId>
-            <version>0.0.2</version>
+            <version>0.0.3-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
     </dependencies>
